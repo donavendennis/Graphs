@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/Graphs/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/Graphs.dir/src/Main.cpp.o -c /workspaces/Graphs/src/Main.cpp",
+  "file": "/workspaces/Graphs/src/Main.cpp"
+},
+{
+  "directory": "/workspaces/Graphs/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/Graphs.dir/src/Graph.cpp.o -c /workspaces/Graphs/src/Graph.cpp",
+  "file": "/workspaces/Graphs/src/Graph.cpp"
+}
+]

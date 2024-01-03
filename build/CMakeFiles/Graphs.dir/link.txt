@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Graphs.dir/src/Main.cpp.o CMakeFiles/Graphs.dir/src/Graph.cpp.o  -o Graphs 
