@@ -1,0 +1,10 @@
+^D:\SCHOOL\2023_FALL\CS 2420\MOD7\GRAPHS\BUILD\CMAKEFILES\FDBCE647D6ECEBE67FC0955A37570842\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/School/2023_FALL/CS 2420/Mod7/Graphs" "-BD:/School/2023_FALL/CS 2420/Mod7/Graphs/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/School/2023_FALL/CS 2420/Mod7/Graphs/build/Graphs.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\School\2023_FALL\CS 2420\Mod7\Graphs\src\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\School\2023_FALL\CS 2420\Mod7\Graphs\src\Graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\School\2023_FALL\CS 2420\Mod7\Graphs\inc\Graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\School\2023_FALL\CS 2420\Mod7\Graphs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9DAB7190-7F04-3551-80AF-E56889EE55B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{59EB2F7D-80C7-3523-879C-8A1CFC2323D1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

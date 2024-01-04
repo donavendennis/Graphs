@@ -1,12 +1,8 @@
 [
 {
-  "directory": "/workspaces/Graphs/build",
-  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/Graphs.dir/src/Main.cpp.o -c /workspaces/Graphs/src/Main.cpp",
-  "file": "/workspaces/Graphs/src/Main.cpp"
-},
-{
-  "directory": "/workspaces/Graphs/build",
-  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/Graphs.dir/src/Graph.cpp.o -c /workspaces/Graphs/src/Graph.cpp",
-  "file": "/workspaces/Graphs/src/Graph.cpp"
+  "directory": "D:/School/2023_FALL/CS 2420/Mod7/Graphs/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\Graphs.dir\\src\\Main.cpp.obj -c \"D:\\School\\2023_FALL\\CS 2420\\Mod7\\Graphs\\src\\Main.cpp\"",
+  "file": "D:/School/2023_FALL/CS 2420/Mod7/Graphs/src/Main.cpp",
+  "output": "CMakeFiles/Graphs.dir/src/Main.cpp.obj"
 }
 ]
